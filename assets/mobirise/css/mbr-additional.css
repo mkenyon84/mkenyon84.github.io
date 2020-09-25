@@ -2135,7 +2135,7 @@ section.lazy-placeholder:after {
 .cid-sbvChUV63D {
   padding-top: 90px;
   padding-bottom: 30px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/birkdale-high-school-109-952x598.jpg");
 }
 .cid-sbvChUV63D .card {
   align-self: stretch;
@@ -2175,6 +2175,7 @@ section.lazy-placeholder:after {
 }
 .cid-sbvChUV63D .card-title {
   text-align: center;
+  color: #767676;
 }
 .cid-sbvso2CAJm {
   padding-top: 15px;
