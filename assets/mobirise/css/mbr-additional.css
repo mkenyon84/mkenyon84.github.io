@@ -3686,7 +3686,7 @@ section.lazy-placeholder:after {
 }
 .cid-sbSTvc9g60 {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/birkdale-high-school-109-952x598.jpg");
 }
 .cid-sbSTvc9g60 .card {
@@ -4243,7 +4243,7 @@ section.lazy-placeholder:after {
 }
 .cid-sbSTvlkdHU {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-sbSTvlkdHU h4 {
@@ -4264,6 +4264,29 @@ section.lazy-placeholder:after {
 .cid-sbSTvlkdHU .card-title {
   text-align: center;
 }
+.cid-sbZ343iecf {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-sbZ343iecf h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sbZ343iecf p {
+  color: #767676;
+  text-align: left;
+}
+.cid-sbZ343iecf .card-box {
+  padding-top: 2rem;
+}
+.cid-sbZ343iecf .card-wrapper {
+  height: 100%;
+}
+.cid-sbZ343iecf .card-title {
+  text-align: center;
+}
 .cid-sbTmtqdw9G {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -4271,4 +4294,27 @@ section.lazy-placeholder:after {
 }
 .cid-sbTmtqdw9G .mbr-section-subtitle {
   color: #767676;
+}
+.cid-sbZ1VG9Nry {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-sbZ1VG9Nry .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sbZ1VG9Nry .section-text {
+  padding: 2rem 0;
+}
+.cid-sbZ1VG9Nry .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sbZ1VG9Nry .inner-container {
+    width: 100% !important;
+  }
 }
