@@ -3656,6 +3656,29 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #767676;
 }
+.cid-scaPC8FjZu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f295;
+}
+.cid-scaPC8FjZu .line {
+  background-color: #f9f295;
+  color: #f9f295;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-scaPC8FjZu .section-text {
+  padding: 2rem 0;
+}
+.cid-scaPC8FjZu .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-scaPC8FjZu .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-sbSTvcHItz {
   padding-top: 15px;
   padding-bottom: 15px;
