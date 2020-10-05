@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Parents Evening",
-    "currentPage": "index.html",
+    "currentPage": "Parents Evening.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,10 +35,10 @@
     "versionPublish": "4.12.4"
   },
   "pages": {
-    "index.html": {
+    "Parents Evening.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Parents Evening",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
