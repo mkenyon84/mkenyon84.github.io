@@ -3746,6 +3746,9 @@ section.lazy-placeholder:after {
 .cid-scxBHbs3p2 .card-wrapper {
   height: 100%;
 }
+.cid-scxBHbs3p2 .card-title {
+  text-align: center;
+}
 .cid-scxBLlHiKt {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -3765,6 +3768,9 @@ section.lazy-placeholder:after {
 }
 .cid-scxBLlHiKt .card-wrapper {
   height: 100%;
+}
+.cid-scxBLlHiKt .card-title {
+  text-align: center;
 }
 .cid-sbZ1VG9Nry {
   padding-top: 30px;
