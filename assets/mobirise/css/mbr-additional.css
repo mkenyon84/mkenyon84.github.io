@@ -1269,6 +1269,17 @@ section.lazy-placeholder:after {
 .cid-scIXaECYHm .card-title {
   text-align: center;
 }
+.cid-sdcaeRbdpk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #55b4d4);
+}
+.cid-sdcaeRbdpk .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-sdcaeRbdpk H2 {
+  text-align: left;
+}
 .cid-scJhdmUXOC {
   padding-top: 120px;
   padding-bottom: 60px;
