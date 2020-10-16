@@ -3750,29 +3750,6 @@ section.lazy-placeholder:after {
 .cid-scxBHbs3p2 .card-title {
   text-align: center;
 }
-.cid-sbZ1VG9Nry {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-sbZ1VG9Nry .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-sbZ1VG9Nry .section-text {
-  padding: 2rem 0;
-}
-.cid-sbZ1VG9Nry .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-sbZ1VG9Nry .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-rvIGSG6DOu .navbar {
   background: #ffffff;
   transition: none;
