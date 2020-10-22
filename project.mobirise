@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Parents Evening",
-    "currentPage": "Year 7 Parent Evening.html",
+    "currentPage": "ParentEvening.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -759,7 +759,7 @@
         }
       ]
     },
-    "Year 7 Parent Evening.html": {
+    "ParentEvening.html": {
       "settings": {
         "title": "Year 7 Parent Evening",
         "meta_descr": "",
